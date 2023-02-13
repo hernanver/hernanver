@@ -4,8 +4,8 @@
 
 ### About me:
 
-
-* Industrial Engineer getting into the world of programming :mortar_board: .
+* AI Knowledges 
+* Industrial Engineer :mortar_board: .
 * Semi-professional Rugby player :rugby_football:.
 * Sports Video Analyst with LONGOMATCH's program :movie_camera: .
 * From Argentina :argentina:  living in France :fr: .
@@ -19,11 +19,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Things i'm learning and i would like to learn:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 
 
